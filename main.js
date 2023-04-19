@@ -29,7 +29,7 @@ solutionVars = {
 
             } else if (solutionVars.operator === "-") {
                 solutionVars.answer = +solutionVars.firstNum - +solutionVars.secondNum;
-
+                
             } else if (solutionVars.operator === "/") {
                 solutionVars.answer = +solutionVars.firstNum / +solutionVars.secondNum;
 
